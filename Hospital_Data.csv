@@ -1,0 +1,11 @@
+﻿PatientID,Gender,Age,Department,AdmissionDate,DischargeDate,BillAmount,LengthOfStay
+P101,Male,45,Cardiology,01 October 2026,05 October 2026,"25,000",4
+P102,Female,32,Orthopedics,02 October 2026,06 October 2026,"18,000",4
+P103,Male,60,Neurology,03 October 2026,10 October 2026,"35,000",7
+P104,Female,25,Cardiology,04 October 2026,05 October 2026,"12,000",1
+P105,Male,50,General Medicine,05 October 2026,08 October 2026,"15,000",3
+P106,Female,42,Orthopedics,06 October 2026,11 October 2026,"22,000",5
+P107,Male,35,General Medicine,07 October 2026,09 October 2026,"10,000",2
+P108,Female,55,Neurology,08 October 2026,14 October 2026,"30,000",6
+P109,Male,28,Cardiology,09 October 2026,12 October 2026,"16,000",3
+P110,Female,65,General Medicine,10 October 2026,15 October 2026,"20,000",5
